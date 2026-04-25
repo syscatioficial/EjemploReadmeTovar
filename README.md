@@ -13,18 +13,18 @@
 4. Pograma de tiempo gantProject (Actividades y tiempos)
 
 ### ** FASE II Analisis de software **
-2.1 Requerimientos
-2.2 Diagrama UML  de clases
-2.3 Diagrama UML de casos de uso 
+1. Requerimientos
+2. Diagrama UML  de clases
+3. Diagrama UML de casos de uso 
 
 ### ** FASE III Diseño de software **
-3.1 Wireframes (Interfaces graficas tempranas)
-3.2 Diseño de base de datos (mínimo 3 tablas)
+1. Wireframes (Interfaces graficas tempranas)
+2. Diseño de base de datos (mínimo 3 tablas)
 
 ### ** FASE IV Desarrollo de software **
-4.1 Conexión a base de datos
-4.2 Programación de modulos web responsivos 
-4.3 Cierre conclusión FODA de proyecto y materia proyecto en GITHUB
+1. Conexión a base de datos
+2. Programación de modulos web responsivos 
+3. Cierre conclusión FODA de proyecto y materia proyecto en GITHUB
 
 <span style="color: red;">**ENTREGABLES**</span> Documentacion con fases y actividades del proyecto (Imprimir pantallas)
 <span style="color: orange;">**ENTREGABLES**</span> Proyecto enlace de GITHUB proyecto 
