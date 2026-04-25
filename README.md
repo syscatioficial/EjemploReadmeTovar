@@ -26,11 +26,11 @@
 2. Programación de modulos web responsivos 
 3. Cierre conclusión FODA de proyecto y materia proyecto en GITHUB
 
-<span style="color: red;">**ENTREGABLES**</span>Documentacion con fases y actividades del proyecto (Imprimir pantallas).
+###<span style="color: red;">**ENTREGABLES**</span>    Documentacion con fases y actividades del proyecto (Imprimir pantallas).
 
-<span style="color: orange;">**ENTREGABLES**Proyecto enlace de GITHUB proyecto </span>
+###<span style="color: orange;">**ENTREGABLES**   Proyecto enlace de GITHUB proyecto </span>
 
-<span style="color: blue;">**ENTREGABLES**Archvos extra y anexos </span>
+###<span style="color: blue;">**ENTREGABLES**    Archvos extra y anexos </span>
 
 
 
